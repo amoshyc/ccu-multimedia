@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# This repo
+*.mpg
+*.db
+*.jpg
+*_ground.txt
