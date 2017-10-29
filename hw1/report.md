@@ -30,6 +30,13 @@ conda env create -f environment.yml
 
 來創造與我相同的虛擬環境，具體細節請參[官方文檔](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
 
+因為有使用 `tqdm_notebook` 所以記得[開啟]（http://ipywidgets.readthedocs.io/en/stable/user_install.html) plugin
+
+```
+pip install ipywidgets
+jupyter nbextension enable --py widgetsnbextension
+```
+
 ### Execution
 
 使用 jupyter notebook 開啟 `main.ipynb`，執行 "Cell/Run All" 即可。
