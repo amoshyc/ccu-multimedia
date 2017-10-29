@@ -1,0 +1,20 @@
+name,ap
+block stat,1.0
+block hsv hist INT,1.0
+block hsv hist L2,1.0
+block hsv hist L1,1.0
+block rgb hist INT,1.0
+block rgb hist L1,1.0
+block grey hist INT,1.0
+block grey hist L2,1.0
+block grey hist L1,1.0
+block rgb hist L2,0.982142857143
+hsv hist INT,0.968253968254
+hsv hist L1,0.968253968254
+rgb hist INT,0.961734693878
+rgb hist L2,0.961734693878
+rgb hist L1,0.961734693878
+grey hist INT,0.961734693878
+grey hist L1,0.961734693878
+grey hist L2,0.947845804989
+hsv hist L2,0.93253968254

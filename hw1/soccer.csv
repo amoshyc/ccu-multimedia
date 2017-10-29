@@ -1,0 +1,20 @@
+name,ap
+rgb hist L2,0.542220031294
+grey hist L2,0.514471195978
+rgb hist INT,0.502207001528
+rgb hist L1,0.502207001528
+grey hist INT,0.473762250746
+grey hist L1,0.472756966371
+hsv hist L2,0.466977489492
+hsv hist INT,0.331401751637
+hsv hist L1,0.331401751637
+block stat,0.219441985515
+block grey hist INT,0.111647295396
+block rgb hist INT,0.104557584849
+block grey hist L1,0.0958278980323
+block grey hist L2,0.0678073896719
+block rgb hist L1,0.0671979325344
+block hsv hist INT,0.0563070142977
+block hsv hist L1,0.0498553384751
+block rgb hist L2,0.0482722030928
+block hsv hist L2,0.0402684364415
