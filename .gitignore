@@ -106,3 +106,4 @@ ENV/
 *.db
 *.jpg
 *_ground.txt
+data/
